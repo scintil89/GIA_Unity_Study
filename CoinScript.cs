@@ -10,3 +10,6 @@ public class CoinScript : MonoBehaviour
         transform.Rotate(new Vector3(50.0f, 50.0f, 50.0f) * Time.deltaTime);
     }
 }
+
+
+///////////////////////////////////////////////////////////
